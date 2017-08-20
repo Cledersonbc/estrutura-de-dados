@@ -1,4 +1,4 @@
-#Lista de Revisão
+# Lista de Revisão
 A lista de revisão conta com as operações de:
 * Adicionar no início
 * Adicionar no final
@@ -8,8 +8,8 @@ A lista de revisão conta com as operações de:
 * Remover em posição específica
 * Exibir a lista
 
-#Compilação
+# Compilação
 javac -d classes view/*.java controller/*.java
 
-#Execução
+# Execução
 java -cp classes view.Principal
