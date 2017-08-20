@@ -1,0 +1,7 @@
+1) Altere o grafo implementado em sala de aula para para que os vértices sejam letras maiúsculas. Pesquisa e implemente na classe grafo um método para encontrar um menor caminho saindo de uma origem para um destino qualquer.
+
+2) Altere o grafo dado em sala de aula para que um vértice seja nomeado por uma letra maiúscula e o grafo não seja direcionado
+
+3) Altere o grafo dado em sala de aula para que seja um grafo valorado (aresta com pesos diferentes). Pesquise e implementeum método que encontre o caminho menos custoso.
+
+4) Implemente uma lista de contatos, elabora uma tabela de espalhamento que organize os nomes de acordo com a primeira letra e guarde o nome e número.
